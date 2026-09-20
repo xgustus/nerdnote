@@ -1,17 +1,51 @@
-# nerdnote
+# 🧠 NerdNote
 
-Suas notas nerds!
+**Um canivete suíço para nerds e estudantes.**
 
-## Getting Started
+Gerencie suas tarefas, organize suas matérias e treine o cubo mágico — tudo em um só lugar.
 
-This project is a starting point for a Flutter application.
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-blue?style=for-the-badge)]()
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Funcionalidades
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Tarefas** — Crie, edite e organize suas tarefas com prazos
+- **Matérias** — Cadastre suas matérias e horários de aula
+- **CubeTimer** — Cronômetro para cubo mágico com histórico de solves
+- Tema claro / escuro
+- Backup e restauração completa dos dados
+- Interface limpa e moderna (Material 3)
+
+---
+
+## 📱 Plataformas
+
+- Android
+- iOS
+- Web
+
+---
+
+## 🛠️ Tecnologias
+
+- Flutter + Dart
+- Shared Preferences (armazenamento local)
+- Material Design 3
+
+---
+
+## 🚀 Como rodar o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/nerdnote.git
+cd nerdnote
+
+# Instale as dependências
+flutter pub get
+
+# Rode o app
+flutter run
